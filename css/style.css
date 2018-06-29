@@ -1,14 +1,9 @@
-
-*{
-    box-sizing: border-box;
-}
 body{
-    background-color: black;
-    color: red;
+    background-color: darkblue;
+    color: bisque;
 }
 
-
-h2 {
-    color: brown;
-    font-size: 40px;
+.contactTitle{
+    background-color: aqua;
+    color: black;
 }
