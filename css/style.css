@@ -1,7 +1,13 @@
+
 *{
     box-sizing: border-box;
 }
 body{
     background-color: black;
     color: red;
+}
+
+h2 {
+    color: brown;
+    font-size: 40px;
 }
